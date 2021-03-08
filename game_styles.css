@@ -203,7 +203,7 @@ body {
 .inset.copper { border-image:url('blocks/border_copper_inset_01.png') 10 stretch; }
 .inset.maroon { border-image:url('blocks/border_maroon_inset_01.png') 10 stretch; }
 
-/* Creator Section */
+/* Creator */
 
 #creator {
    display:flex;
