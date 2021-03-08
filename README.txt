@@ -4,7 +4,7 @@ All rights reserved. Any use of Puzzle Game Version 1.0 can only be granted with
 This project is intended to showcase my work and my ability to program, build, design, and implement features using Javascript and HTML. The design, images, and concepts contained are purely made from scratch. I have no affiliation with any game companies.
 
 --- Standalone ---
-LCD Media Player is built as a standalone feature. One external javascript document, one script tag at the end of the body, one wrapper div for the game wrapper, and one stylesheet. All functions are constructed and loaded in one, self executing, anonymous function.
+Built as a standalone feature. One external javascript document, one script tag at the end of the body, one wrapper div for the game wrapper, and one stylesheet. All functions are constructed and loaded in one, self executing, anonymous function.
 
 --- About Puzzle Game Version 1.0 ---
 A simple Real-Time Puzzle Game built using pure vanilla Javascript. The Javascript is written as a standalone feature. An object constructor organizes all functions. A function closure frees the global namespace while executing commands AFTER the DOM is ready.
